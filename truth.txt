@@ -3,7 +3,7 @@ Apa baju yang (menurutmu) paling jelek yang pernah kamu pakai, dan kapan kamu me
 Apa hal paling buruk (gosip) yang pernah kamu bilang tentang temenmu?
 Apa hal paling memalukan dari dirimu?
 Apa hal paling memalukan dari temanmu?
-Apa hal pertama yang kamu lihat saat kamu melihat orang lain (lawan jenis)?
+Apa hal pertama yang kamu nilai saat kamu melihat orang lain (lawan jenis)?
 Apa hal pertama yang terlintas di pikiranmu saat kamu melihat cermin?
 Apa hal terbodoh yang pernah kamu lakukan?
 Apa hal terbodoh yang pernah kamu lakukan?
@@ -33,7 +33,7 @@ Kalo kamu disuruh operasi plastik dengan contoh wajah dari teman sekelasmu, waja
 Kamu pernah mencuri sesuatu gak?
 Apakah kamu takut mati? kenapa?
 Kapan terakhir kali kamu menangis dan mengapa?
-Apa kemampuan spesial kamu apa?
+Apa kemampuan spesial kamu?
 Kok bisa suka sama orang yang kamu sukai?
 Menurutmu, apa sifat baik teman terdekatmu yang nggak dia sadari?
 Orang seperti apa yang ingin kamu nikahi suatu saat nanti?
@@ -112,7 +112,7 @@ Hewan apa yang paling cocok untukmu dan mengapa?
 Apa kencan terburukmu?
 Siapa yang ingin kamu cium sekarang?
 Apa rahasia kamu, fantasi gelap?
-Apakah Anda lebih suka tato pantat Anda atau menusuk lidah Anda?
+D: "Surga atau neraka?"
 Apakah kamu selalu setia?
 Apakah Anda memiliki naksir remaja?
 Di orang mana kamu jatuh cinta?
@@ -158,3 +158,4 @@ Apakah menurut kamu, kamu lebih jelek atau lebih cakep dibanding teman-teman kam
 Pernah salah sebut nama orang saat di jalan? Ceritain, dong!
 Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
 Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
+Ketik #dadu, angka yang muncul adalah urutan orang yang kamu benci ketika mulai mengetik @
