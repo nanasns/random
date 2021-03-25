@@ -156,3 +156,5 @@ Berapa banyak mantan kamu?
 Hal apa yang tidak kamu sukai tentang saya?
 Apakah menurut kamu, kamu lebih jelek atau lebih cakep dibanding teman-teman kamu?
 Pernah salah sebut nama orang saat di jalan? Ceritain, dong!
+Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
+Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
