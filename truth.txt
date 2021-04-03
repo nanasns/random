@@ -62,7 +62,6 @@ Ayah atau ibu
 Bagian tubuh yang kamu tidak suka
 Suka ilfil tentang apa
 Pernah selingkuh?
-Pernah ciuman ?
 Pacaran paling sebentar berapa hari/bulan/tahun ?
 Apa hal pertama yang akan Anda lakukan jika Anda bangun sebagai lawan jenis?
 Pernahkah Anda membiarkan orang lain mendapat masalah karena sesuatu yang Anda lakukan?
@@ -99,7 +98,6 @@ Apa fantasi tergelapmu?
 Apa hal terbaik yang pernah Anda alami dengan orang lain?
 Apa turn-off terbesar bagi Anda?
 Apa yang paling Anda sukai dari tubuh Anda dan apa yang paling jelek?
-Siapa dari ronde kami yang ingin kamu lihat telanjang?
 Siapa di babak ini yang bisa membuatmu jatuh cinta?
 Pernahkah Anda memiliki mimpi erotis di mana seseorang dari babak ini terjadi?
 Jika Anda akan menato diri Anda di area genital - apa yang akan ada di sana?
@@ -159,3 +157,5 @@ Pernah salah sebut nama orang saat di jalan? Ceritain, dong!
 Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
 Ketik #dadu, angka yang muncul adalah urutan orang yang kamu sukai ketika mulai mengetik @
 Ketik #dadu, angka yang muncul adalah urutan orang yang kamu benci ketika mulai mengetik @
+Sebutkan type doi mu!
+Berikan 1 kata untuk orang yang kau sukai! 
